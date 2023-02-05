@@ -767,31 +767,31 @@ video {
 }
 
 .bg-model-s {
-  background-image: url('/img/model-s.jpeg');
+  background-image: url('img/model-s.jpeg');
 }
 
 .bg-model-y {
-  background-image: url('/img/model-y.jpeg');
+  background-image: url('img/model-y.jpeg');
 }
 
 .bg-model-3 {
-  background-image: url('/img/model-3.jpeg');
+  background-image: url('img/model-3.jpeg');
 }
 
 .bg-model-x {
-  background-image: url('/img/model-x.jpeg');
+  background-image: url('img/model-x.jpeg');
 }
 
 .bg-solar-panels {
-  background-image: url('/img/solar-panels.jpeg');
+  background-image: url('img/solar-panels.jpeg');
 }
 
 .bg-solar-roof {
-  background-image: url('/img/solar-roof.jpeg');
+  background-image: url('img/solar-roof.jpeg');
 }
 
 .bg-accessories {
-  background-image: url('/img/accessories.jpeg');
+  background-image: url('img/accessories.jpeg');
 }
 
 .bg-cover {
@@ -1151,31 +1151,31 @@ video {
 
 @media (orientation: portrait) {
   .portrait\:bg-mobile-model-s {
-    background-image: url('/img/mobile-model-s.jpeg');
+    background-image: url('img/mobile-model-s.jpeg');
   }
 
   .portrait\:bg-mobile-model-y {
-    background-image: url('/img/mobile-model-y.jpeg');
+    background-image: url('img/mobile-model-y.jpeg');
   }
 
   .portrait\:bg-mobile-model-3 {
-    background-image: url('/img/mobile-model-3.jpeg');
+    background-image: url('img/mobile-model-3.jpeg');
   }
 
   .portrait\:bg-mobile-model-x {
-    background-image: url('/img/mobile-model-x.jpeg');
+    background-image: url('img/mobile-model-x.jpeg');
   }
 
   .portrait\:bg-mobile-solar-panels {
-    background-image: url('/img/mobile-solar-panels.jpeg');
+    background-image: url('img/mobile-solar-panels.jpeg');
   }
 
   .portrait\:bg-mobile-solar-roof {
-    background-image: url('/img/mobile-solar-roof.jpeg');
+    background-image: url('img/mobile-solar-roof.jpeg');
   }
 
   .portrait\:bg-mobile-accessories {
-    background-image: url('/img/mobile-accessories.jpeg');
+    background-image: url('img/mobile-accessories.jpeg');
   }
 }
 
